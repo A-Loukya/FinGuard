@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/FinGuard/static/css/main.e4dea583.css",
+    "main.js": "/FinGuard/static/js/main.ae941efc.js",
+    "static/media/background.png": "/FinGuard/static/media/background.0db2f019e42a3c84d4df.png",
+    "static/media/bg-footer.png": "/FinGuard/static/media/bg-footer.dc329165017cc18b8186.png",
+    "static/media/img3.png": "/FinGuard/static/media/img3.67ce4ca1d4da012ed19f.png",
+    "static/media/img1.png": "/FinGuard/static/media/img1.26eacc848f815455b8a4.png",
+    "static/media/img2.png": "/FinGuard/static/media/img2.b7c5f7ae3e4c10255edf.png",
+    "static/media/left.png": "/FinGuard/static/media/left.2e28f856bec63068ebf4.png",
+    "static/media/join2.jpg": "/FinGuard/static/media/join2.0d7f083519dcc14c5a5f.jpg",
+    "static/media/join01.jpg": "/FinGuard/static/media/join01.1dee6228fd2999d74e11.jpg",
+    "static/media/ripple.png": "/FinGuard/static/media/ripple.93801aba50f7af6a4550.png",
+    "static/media/eth-foundation.png": "/FinGuard/static/media/eth-foundation.c586d6ec821d3f4d0955.png",
+    "static/media/bg-backed.png": "/FinGuard/static/media/bg-backed.fc765a6af2b904d0d4a7.png",
+    "static/media/foot.png": "/FinGuard/static/media/foot.cc0930ce422715204baf.png",
+    "static/media/backer-arcanum-logo.png": "/FinGuard/static/media/backer-arcanum-logo.7e6429371c07bd5aeabd.png",
+    "static/media/fish3.png": "/FinGuard/static/media/fish3.b18366b9ec3aeba24491.png",
+    "static/media/btn-2.png": "/FinGuard/static/media/btn-2.6a9c4d66f5960cc6b7e9.png",
+    "static/media/backer-jump-logo.png": "/FinGuard/static/media/backer-jump-logo.6005a2a498fc0bbf230c.png",
+    "static/media/home.svg": "/FinGuard/static/media/home.9b9e3b05100dd9cb6a67ec8076197d94.svg",
+    "static/media/fish.svg": "/FinGuard/static/media/fish.d111e527c4310bd3d30d.svg",
+    "static/media/fish1.svg": "/FinGuard/static/media/fish1.0413330135a4786fb594.svg",
+    "index.html": "/FinGuard/index.html",
+    "main.e4dea583.css.map": "/FinGuard/static/css/main.e4dea583.css.map",
+    "main.ae941efc.js.map": "/FinGuard/static/js/main.ae941efc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4dea583.css",
+    "static/js/main.ae941efc.js"
+  ]
+}
