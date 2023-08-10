@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/FinGuard/static/css/main.e4dea583.css",
-    "main.js": "/FinGuard/static/js/main.ae941efc.js",
+    "main.css": "/FinGuard/static/css/main.97ae39e0.css",
+    "main.js": "/FinGuard/static/js/main.bf06e723.js",
     "static/media/background.png": "/FinGuard/static/media/background.0db2f019e42a3c84d4df.png",
     "static/media/bg-footer.png": "/FinGuard/static/media/bg-footer.dc329165017cc18b8186.png",
     "static/media/img3.png": "/FinGuard/static/media/img3.67ce4ca1d4da012ed19f.png",
@@ -22,11 +22,11 @@
     "static/media/fish.svg": "/FinGuard/static/media/fish.d111e527c4310bd3d30d.svg",
     "static/media/fish1.svg": "/FinGuard/static/media/fish1.0413330135a4786fb594.svg",
     "index.html": "/FinGuard/index.html",
-    "main.e4dea583.css.map": "/FinGuard/static/css/main.e4dea583.css.map",
-    "main.ae941efc.js.map": "/FinGuard/static/js/main.ae941efc.js.map"
+    "main.97ae39e0.css.map": "/FinGuard/static/css/main.97ae39e0.css.map",
+    "main.bf06e723.js.map": "/FinGuard/static/js/main.bf06e723.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4dea583.css",
-    "static/js/main.ae941efc.js"
+    "static/css/main.97ae39e0.css",
+    "static/js/main.bf06e723.js"
   ]
 }
